@@ -1,1 +1,2 @@
  This is simple test file to check git
+ hi this is a edited file.
